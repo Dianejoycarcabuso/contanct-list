@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "fullName": "lala move",
+    "address": "tunasan",
+    "phoneNumber": "09167879799"
+  },
+  {
+    "id": 2,
+    "fullName": "may kim",
+    "address": "san pedro",
+    "phoneNumber": "09168790987"
+  },
+  {
+    "id": 3,
+    "fullName": "jane lim",
+    "address": "alabang",
+    "phoneNumber": "09876864456"
+  },
+  {
+    "id": 4,
+    "fullName": "crispin cruz",
+    "address": "putatan",
+    "phoneNumber": "09086453356"
+  },
+  {
+    "id": 5,
+    "fullName": "kris web",
+    "address": "poblacion",
+    "phoneNumber": "098764435466"
+  }
+]
